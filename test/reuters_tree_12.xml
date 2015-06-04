@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<DataSet id="7964">
+    <node id="0">
+        <parent_id>-1</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>2</left_child_id>
+        <right_child_id>3</right_child_id>
+        <doc_count>3731</doc_count>
+        <top_terms>
+            <term name="net"/>
+            <term name="shr"/>
+            <term name="loss"/>
+            <term name="cts"/>
+            <term name="revs"/>
+        </top_terms>
+    </node>
+    <node id="1">
+        <parent_id>-1</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>4</left_child_id>
+        <right_child_id>5</right_child_id>
+        <doc_count>4253</doc_count>
+        <top_terms>
+            <term name="qtly"/>
+            <term name="div"/>
+            <term name="record"/>
+            <term name="pay"/>
+            <term name="prior"/>
+        </top_terms>
+    </node>
+    <node id="2">
+        <parent_id>0</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>14</left_child_id>
+        <right_child_id>15</right_child_id>
+        <doc_count>1831</doc_count>
+        <top_terms>
+            <term name="loss"/>
+            <term name="profit"/>
+            <term name="oper"/>
+            <term name="revs"/>
+            <term name="shr"/>
+        </top_terms>
+    </node>
+    <node id="3">
+        <parent_id>0</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>1900</doc_count>
+        <top_terms>
+            <term name="net"/>
+            <term name="cts"/>
+            <term name="shr"/>
+            <term name="revs"/>
+            <term name="avg"/>
+        </top_terms>
+    </node>
+    <node id="4">
+        <parent_id>1</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>715</doc_count>
+        <top_terms>
+            <term name="qtly"/>
+            <term name="div"/>
+            <term name="record"/>
+            <term name="pay"/>
+            <term name="prior"/>
+        </top_terms>
+    </node>
+    <node id="5">
+        <parent_id>1</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>6</left_child_id>
+        <right_child_id>7</right_child_id>
+        <doc_count>3538</doc_count>
+        <top_terms>
+            <term name="pct"/>
+            <term name="shares"/>
+            <term name="stock"/>
+            <term name="u.s"/>
+            <term name="bank"/>
+        </top_terms>
+    </node>
+    <node id="6">
+        <parent_id>5</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>12</left_child_id>
+        <right_child_id>13</right_child_id>
+        <doc_count>1641</doc_count>
+        <top_terms>
+            <term name="shares"/>
+            <term name="common"/>
+            <term name="stock"/>
+            <term name="stake"/>
+            <term name="offer"/>
+        </top_terms>
+    </node>
+    <node id="7">
+        <parent_id>5</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>8</left_child_id>
+        <right_child_id>9</right_child_id>
+        <doc_count>1897</doc_count>
+        <top_terms>
+            <term name="trade"/>
+            <term name="u.s"/>
+            <term name="pct"/>
+            <term name="rate"/>
+            <term name="bank"/>
+        </top_terms>
+    </node>
+    <node id="8">
+        <parent_id>7</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>582</doc_count>
+        <top_terms>
+            <term name="pct"/>
+            <term name="rate"/>
+            <term name="bank"/>
+            <term name="february"/>
+            <term name="rates"/>
+        </top_terms>
+    </node>
+    <node id="9">
+        <parent_id>7</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>10</left_child_id>
+        <right_child_id>11</right_child_id>
+        <doc_count>1315</doc_count>
+        <top_terms>
+            <term name="trade"/>
+            <term name="u.s"/>
+            <term name="japan"/>
+            <term name="oil"/>
+            <term name="japanese"/>
+        </top_terms>
+    </node>
+    <node id="10">
+        <parent_id>9</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>20</left_child_id>
+        <right_child_id>21</right_child_id>
+        <doc_count>661</doc_count>
+        <top_terms>
+            <term name="oil"/>
+            <term name="crude"/>
+            <term name="sugar"/>
+            <term name="prices"/>
+            <term name="tonnes"/>
+        </top_terms>
+    </node>
+    <node id="11">
+        <parent_id>9</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>16</left_child_id>
+        <right_child_id>17</right_child_id>
+        <doc_count>654</doc_count>
+        <top_terms>
+            <term name="trade"/>
+            <term name="u.s"/>
+            <term name="japan"/>
+            <term name="japanese"/>
+            <term name="states"/>
+        </top_terms>
+    </node>
+    <node id="12">
+        <parent_id>6</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>284</doc_count>
+        <top_terms>
+            <term name="stake"/>
+            <term name="shares"/>
+            <term name="commission"/>
+            <term name="securities"/>
+            <term name="common"/>
+        </top_terms>
+    </node>
+    <node id="13">
+        <parent_id>6</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>18</left_child_id>
+        <right_child_id>19</right_child_id>
+        <doc_count>1337</doc_count>
+        <top_terms>
+            <term name="offer"/>
+            <term name="shares"/>
+            <term name="shareholders"/>
+            <term name="merger"/>
+            <term name="stock"/>
+        </top_terms>
+    </node>
+    <node id="14">
+        <parent_id>2</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>689</doc_count>
+        <top_terms>
+            <term name="oper"/>
+            <term name="excludes"/>
+            <term name="discontinued"/>
+            <term name="gain"/>
+            <term name="operations"/>
+        </top_terms>
+    </node>
+    <node id="15">
+        <parent_id>2</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>1142</doc_count>
+        <top_terms>
+            <term name="loss"/>
+            <term name="profit"/>
+            <term name="revs"/>
+            <term name="shr"/>
+            <term name="cts"/>
+        </top_terms>
+    </node>
+    <node id="16">
+        <parent_id>11</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>149</doc_count>
+        <top_terms>
+            <term name="baker"/>
+            <term name="paris"/>
+            <term name="accord"/>
+            <term name="finance"/>
+            <term name="louvre"/>
+        </top_terms>
+    </node>
+    <node id="17">
+        <parent_id>11</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>505</doc_count>
+        <top_terms>
+            <term name="trade"/>
+            <term name="u.s"/>
+            <term name="japan"/>
+            <term name="japanese"/>
+            <term name="reagan"/>
+        </top_terms>
+    </node>
+    <node id="18">
+        <parent_id>13</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>921</doc_count>
+        <top_terms>
+            <term name="stock"/>
+            <term name="common"/>
+            <term name="shareholders"/>
+            <term name="merger"/>
+            <term name="acquisition"/>
+        </top_terms>
+    </node>
+    <node id="19">
+        <parent_id>13</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>416</doc_count>
+        <top_terms>
+            <term name="offer"/>
+            <term name="tender"/>
+            <term name="shares"/>
+            <term name="bid"/>
+            <term name="cyclops"/>
+        </top_terms>
+    </node>
+    <node id="20">
+        <parent_id>10</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>382</doc_count>
+        <top_terms>
+            <term name="sugar"/>
+            <term name="tonnes"/>
+            <term name="coffee"/>
+            <term name="export"/>
+            <term name="producers"/>
+        </top_terms>
+    </node>
+    <node id="21">
+        <parent_id>10</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>279</doc_count>
+        <top_terms>
+            <term name="oil"/>
+            <term name="crude"/>
+            <term name="barrel"/>
+            <term name="texas"/>
+            <term name="postings"/>
+        </top_terms>
+    </node>
+</DataSet>

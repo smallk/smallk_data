@@ -1,0 +1,871 @@
+<?xml version="1.0"?>
+<DataSet id="10735">
+    <node id="0">
+        <parent_id>-1</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>12</left_child_id>
+        <right_child_id>13</right_child_id>
+        <doc_count>4023</doc_count>
+        <top_terms>
+            <term name="windows"/>
+            <term name="card"/>
+            <term name="drive"/>
+            <term name="dos"/>
+            <term name="pc"/>
+        </top_terms>
+    </node>
+    <node id="1">
+        <parent_id>-1</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>2</left_child_id>
+        <right_child_id>3</right_child_id>
+        <doc_count>7214</doc_count>
+        <top_terms>
+            <term name="people"/>
+            <term name="god"/>
+            <term name="don"/>
+            <term name="article"/>
+            <term name="writes"/>
+        </top_terms>
+    </node>
+    <node id="2">
+        <parent_id>1</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>4</left_child_id>
+        <right_child_id>5</right_child_id>
+        <doc_count>5964</doc_count>
+        <top_terms>
+            <term name="people"/>
+            <term name="god"/>
+            <term name="don"/>
+            <term name="government"/>
+            <term name="article"/>
+        </top_terms>
+    </node>
+    <node id="3">
+        <parent_id>1</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>22</left_child_id>
+        <right_child_id>23</right_child_id>
+        <doc_count>1250</doc_count>
+        <top_terms>
+            <term name="team"/>
+            <term name="game"/>
+            <term name="hockey"/>
+            <term name="games"/>
+            <term name="players"/>
+        </top_terms>
+    </node>
+    <node id="4">
+        <parent_id>2</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>6</left_child_id>
+        <right_child_id>7</right_child_id>
+        <doc_count>4588</doc_count>
+        <top_terms>
+            <term name="government"/>
+            <term name="people"/>
+            <term name="clipper"/>
+            <term name="don"/>
+            <term name="article"/>
+        </top_terms>
+    </node>
+    <node id="5">
+        <parent_id>2</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>32</left_child_id>
+        <right_child_id>33</right_child_id>
+        <doc_count>1376</doc_count>
+        <top_terms>
+            <term name="god"/>
+            <term name="jesus"/>
+            <term name="christian"/>
+            <term name="christians"/>
+            <term name="bible"/>
+        </top_terms>
+    </node>
+    <node id="6">
+        <parent_id>4</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>8</left_child_id>
+        <right_child_id>9</right_child_id>
+        <doc_count>4121</doc_count>
+        <top_terms>
+            <term name="people"/>
+            <term name="don"/>
+            <term name="article"/>
+            <term name="gun"/>
+            <term name="car"/>
+        </top_terms>
+    </node>
+    <node id="7">
+        <parent_id>4</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>60</left_child_id>
+        <right_child_id>61</right_child_id>
+        <doc_count>437</doc_count>
+        <top_terms>
+            <term name="clipper"/>
+            <term name="encryption"/>
+            <term name="key"/>
+            <term name="chip"/>
+            <term name="escrow"/>
+        </top_terms>
+    </node>
+    <node id="8">
+        <parent_id>6</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>10</left_child_id>
+        <right_child_id>11</right_child_id>
+        <doc_count>3610</doc_count>
+        <top_terms>
+            <term name="people"/>
+            <term name="car"/>
+            <term name="gun"/>
+            <term name="don"/>
+            <term name="article"/>
+        </top_terms>
+    </node>
+    <node id="9">
+        <parent_id>6</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>46</left_child_id>
+        <right_child_id>47</right_child_id>
+        <doc_count>511</doc_count>
+        <top_terms>
+            <term name="israel"/>
+            <term name="israeli"/>
+            <term name="turkish"/>
+            <term name="jews"/>
+            <term name="arab"/>
+        </top_terms>
+    </node>
+    <node id="10">
+        <parent_id>8</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>14</left_child_id>
+        <right_child_id>15</right_child_id>
+        <doc_count>2526</doc_count>
+        <top_terms>
+            <term name="car"/>
+            <term name="space"/>
+            <term name="bike"/>
+            <term name="nasa"/>
+            <term name="article"/>
+        </top_terms>
+    </node>
+    <node id="11">
+        <parent_id>8</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>28</left_child_id>
+        <right_child_id>29</right_child_id>
+        <doc_count>996</doc_count>
+        <top_terms>
+            <term name="gun"/>
+            <term name="guns"/>
+            <term name="people"/>
+            <term name="government"/>
+            <term name="batf"/>
+        </top_terms>
+    </node>
+    <node id="12">
+        <parent_id>0</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>34</left_child_id>
+        <right_child_id>35</right_child_id>
+        <doc_count>1862</doc_count>
+        <top_terms>
+            <term name="drive"/>
+            <term name="card"/>
+            <term name="scsi"/>
+            <term name="ide"/>
+            <term name="sale"/>
+        </top_terms>
+    </node>
+    <node id="13">
+        <parent_id>0</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>16</left_child_id>
+        <right_child_id>17</right_child_id>
+        <doc_count>2161</doc_count>
+        <top_terms>
+            <term name="windows"/>
+            <term name="file"/>
+            <term name="dos"/>
+            <term name="files"/>
+            <term name="window"/>
+        </top_terms>
+    </node>
+    <node id="14">
+        <parent_id>10</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>18</left_child_id>
+        <right_child_id>19</right_child_id>
+        <doc_count>1851</doc_count>
+        <top_terms>
+            <term name="car"/>
+            <term name="bike"/>
+            <term name="dod"/>
+            <term name="cars"/>
+            <term name="don"/>
+        </top_terms>
+    </node>
+    <node id="15">
+        <parent_id>10</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>36</left_child_id>
+        <right_child_id>37</right_child_id>
+        <doc_count>546</doc_count>
+        <top_terms>
+            <term name="space"/>
+            <term name="nasa"/>
+            <term name="moon"/>
+            <term name="henry"/>
+            <term name="orbit"/>
+        </top_terms>
+    </node>
+    <node id="16">
+        <parent_id>13</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>694</doc_count>
+        <top_terms>
+            <term name="windows"/>
+            <term name="dos"/>
+            <term name="file"/>
+            <term name="files"/>
+            <term name="ms"/>
+        </top_terms>
+    </node>
+    <node id="17">
+        <parent_id>13</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>24</left_child_id>
+        <right_child_id>25</right_child_id>
+        <doc_count>1467</doc_count>
+        <top_terms>
+            <term name="window"/>
+            <term name="graphics"/>
+            <term name="server"/>
+            <term name="program"/>
+            <term name="motif"/>
+        </top_terms>
+    </node>
+    <node id="18">
+        <parent_id>14</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>20</left_child_id>
+        <right_child_id>21</right_child_id>
+        <doc_count>1387</doc_count>
+        <top_terms>
+            <term name="car"/>
+            <term name="cars"/>
+            <term name="msg"/>
+            <term name="good"/>
+            <term name="don"/>
+        </top_terms>
+    </node>
+    <node id="19">
+        <parent_id>14</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>425</doc_count>
+        <top_terms>
+            <term name="bike"/>
+            <term name="dod"/>
+            <term name="ride"/>
+            <term name="riding"/>
+            <term name="motorcycle"/>
+        </top_terms>
+    </node>
+    <node id="20">
+        <parent_id>18</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>207</doc_count>
+        <top_terms>
+            <term name="msg"/>
+            <term name="food"/>
+            <term name="sensitivity"/>
+            <term name="superstition"/>
+            <term name="chinese"/>
+        </top_terms>
+    </node>
+    <node id="21">
+        <parent_id>18</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>26</left_child_id>
+        <right_child_id>27</right_child_id>
+        <doc_count>1180</doc_count>
+        <top_terms>
+            <term name="car"/>
+            <term name="cars"/>
+            <term name="engine"/>
+            <term name="good"/>
+            <term name="don"/>
+        </top_terms>
+    </node>
+    <node id="22">
+        <parent_id>3</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>562</doc_count>
+        <top_terms>
+            <term name="baseball"/>
+            <term name="players"/>
+            <term name="games"/>
+            <term name="game"/>
+            <term name="team"/>
+        </top_terms>
+    </node>
+    <node id="23">
+        <parent_id>3</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>637</doc_count>
+        <top_terms>
+            <term name="hockey"/>
+            <term name="team"/>
+            <term name="game"/>
+            <term name="nhl"/>
+            <term name="cup"/>
+        </top_terms>
+    </node>
+    <node id="24">
+        <parent_id>17</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>441</doc_count>
+        <top_terms>
+            <term name="window"/>
+            <term name="server"/>
+            <term name="motif"/>
+            <term name="application"/>
+            <term name="x11r5"/>
+        </top_terms>
+    </node>
+    <node id="25">
+        <parent_id>17</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>30</left_child_id>
+        <right_child_id>31</right_child_id>
+        <doc_count>1026</doc_count>
+        <top_terms>
+            <term name="graphics"/>
+            <term name="ftp"/>
+            <term name="mail"/>
+            <term name="software"/>
+            <term name="program"/>
+        </top_terms>
+    </node>
+    <node id="26">
+        <parent_id>21</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>465</doc_count>
+        <top_terms>
+            <term name="car"/>
+            <term name="cars"/>
+            <term name="engine"/>
+            <term name="dealer"/>
+            <term name="ford"/>
+        </top_terms>
+    </node>
+    <node id="27">
+        <parent_id>21</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>715</doc_count>
+        <top_terms>
+            <term name="don"/>
+            <term name="newsgroup"/>
+            <term name="group"/>
+            <term name="time"/>
+            <term name="doctor"/>
+        </top_terms>
+    </node>
+    <node id="28">
+        <parent_id>11</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>222</doc_count>
+        <top_terms>
+            <term name="fbi"/>
+            <term name="batf"/>
+            <term name="atf"/>
+            <term name="waco"/>
+            <term name="fire"/>
+        </top_terms>
+    </node>
+    <node id="29">
+        <parent_id>11</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>40</left_child_id>
+        <right_child_id>41</right_child_id>
+        <doc_count>774</doc_count>
+        <top_terms>
+            <term name="gun"/>
+            <term name="guns"/>
+            <term name="firearms"/>
+            <term name="people"/>
+            <term name="weapons"/>
+        </top_terms>
+    </node>
+    <node id="30">
+        <parent_id>25</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>22</doc_count>
+        <top_terms>
+            <term name="ax"/>
+            <term name="pl"/>
+            <term name="b8f"/>
+            <term name="1t"/>
+            <term name="g9v"/>
+        </top_terms>
+    </node>
+    <node id="31">
+        <parent_id>25</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>42</left_child_id>
+        <right_child_id>43</right_child_id>
+        <doc_count>1004</doc_count>
+        <top_terms>
+            <term name="graphics"/>
+            <term name="ftp"/>
+            <term name="mail"/>
+            <term name="software"/>
+            <term name="program"/>
+        </top_terms>
+    </node>
+    <node id="32">
+        <parent_id>5</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>205</doc_count>
+        <top_terms>
+            <term name="morality"/>
+            <term name="keith"/>
+            <term name="objective"/>
+            <term name="livesey"/>
+            <term name="atheists"/>
+        </top_terms>
+    </node>
+    <node id="33">
+        <parent_id>5</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>38</left_child_id>
+        <right_child_id>39</right_child_id>
+        <doc_count>1106</doc_count>
+        <top_terms>
+            <term name="god"/>
+            <term name="jesus"/>
+            <term name="christians"/>
+            <term name="bible"/>
+            <term name="christian"/>
+        </top_terms>
+    </node>
+    <node id="34">
+        <parent_id>12</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>442</doc_count>
+        <top_terms>
+            <term name="scsi"/>
+            <term name="drive"/>
+            <term name="ide"/>
+            <term name="controller"/>
+            <term name="drives"/>
+        </top_terms>
+    </node>
+    <node id="35">
+        <parent_id>12</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>50</left_child_id>
+        <right_child_id>51</right_child_id>
+        <doc_count>1420</doc_count>
+        <top_terms>
+            <term name="card"/>
+            <term name="sale"/>
+            <term name="monitor"/>
+            <term name="video"/>
+            <term name="mac"/>
+        </top_terms>
+    </node>
+    <node id="36">
+        <parent_id>15</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>74</doc_count>
+        <top_terms>
+            <term name="henry"/>
+            <term name="toronto"/>
+            <term name="zoo"/>
+            <term name="spencer"/>
+            <term name="zoology"/>
+        </top_terms>
+    </node>
+    <node id="37">
+        <parent_id>15</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>472</doc_count>
+        <top_terms>
+            <term name="space"/>
+            <term name="nasa"/>
+            <term name="moon"/>
+            <term name="orbit"/>
+            <term name="gov"/>
+        </top_terms>
+    </node>
+    <node id="38">
+        <parent_id>33</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>440</doc_count>
+        <top_terms>
+            <term name="god"/>
+            <term name="religion"/>
+            <term name="christianity"/>
+            <term name="atheism"/>
+            <term name="atheist"/>
+        </top_terms>
+    </node>
+    <node id="39">
+        <parent_id>33</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>607</doc_count>
+        <top_terms>
+            <term name="jesus"/>
+            <term name="god"/>
+            <term name="christ"/>
+            <term name="bible"/>
+            <term name="church"/>
+        </top_terms>
+    </node>
+    <node id="40">
+        <parent_id>29</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>326</doc_count>
+        <top_terms>
+            <term name="gun"/>
+            <term name="guns"/>
+            <term name="firearms"/>
+            <term name="weapons"/>
+            <term name="crime"/>
+        </top_terms>
+    </node>
+    <node id="41">
+        <parent_id>29</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>54</left_child_id>
+        <right_child_id>55</right_child_id>
+        <doc_count>448</doc_count>
+        <top_terms>
+            <term name="clinton"/>
+            <term name="government"/>
+            <term name="tax"/>
+            <term name="state"/>
+            <term name="president"/>
+        </top_terms>
+    </node>
+    <node id="42">
+        <parent_id>31</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>44</left_child_id>
+        <right_child_id>45</right_child_id>
+        <doc_count>871</doc_count>
+        <top_terms>
+            <term name="mail"/>
+            <term name="ftp"/>
+            <term name="software"/>
+            <term name="image"/>
+            <term name="address"/>
+        </top_terms>
+    </node>
+    <node id="43">
+        <parent_id>31</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>133</doc_count>
+        <top_terms>
+            <term name="graphics"/>
+            <term name="3d"/>
+            <term name="library"/>
+            <term name="package"/>
+            <term name="hidden"/>
+        </top_terms>
+    </node>
+    <node id="44">
+        <parent_id>42</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>48</left_child_id>
+        <right_child_id>49</right_child_id>
+        <doc_count>670</doc_count>
+        <top_terms>
+            <term name="ftp"/>
+            <term name="software"/>
+            <term name="image"/>
+            <term name="program"/>
+            <term name="file"/>
+        </top_terms>
+    </node>
+    <node id="45">
+        <parent_id>42</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>172</doc_count>
+        <top_terms>
+            <term name="address"/>
+            <term name="mail"/>
+            <term name="philips"/>
+            <term name="advance"/>
+            <term name="list"/>
+        </top_terms>
+    </node>
+    <node id="46">
+        <parent_id>9</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>161</doc_count>
+        <top_terms>
+            <term name="turkish"/>
+            <term name="armenians"/>
+            <term name="armenian"/>
+            <term name="armenia"/>
+            <term name="turks"/>
+        </top_terms>
+    </node>
+    <node id="47">
+        <parent_id>9</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>350</doc_count>
+        <top_terms>
+            <term name="israel"/>
+            <term name="israeli"/>
+            <term name="arab"/>
+            <term name="jews"/>
+            <term name="arabs"/>
+        </top_terms>
+    </node>
+    <node id="48">
+        <parent_id>44</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>154</doc_count>
+        <top_terms>
+            <term name="image"/>
+            <term name="images"/>
+            <term name="gif"/>
+            <term name="tiff"/>
+            <term name="format"/>
+        </top_terms>
+    </node>
+    <node id="49">
+        <parent_id>44</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>52</left_child_id>
+        <right_child_id>53</right_child_id>
+        <doc_count>516</doc_count>
+        <top_terms>
+            <term name="ftp"/>
+            <term name="software"/>
+            <term name="program"/>
+            <term name="unix"/>
+            <term name="code"/>
+        </top_terms>
+    </node>
+    <node id="50">
+        <parent_id>35</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>966</doc_count>
+        <top_terms>
+            <term name="card"/>
+            <term name="video"/>
+            <term name="monitor"/>
+            <term name="mac"/>
+            <term name="apple"/>
+        </top_terms>
+    </node>
+    <node id="51">
+        <parent_id>35</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>454</doc_count>
+        <top_terms>
+            <term name="sale"/>
+            <term name="offer"/>
+            <term name="shipping"/>
+            <term name="condition"/>
+            <term name="interested"/>
+        </top_terms>
+    </node>
+    <node id="52">
+        <parent_id>49</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>77</doc_count>
+        <top_terms>
+            <term name="ftp"/>
+            <term name="sites"/>
+            <term name="pub"/>
+            <term name="site"/>
+            <term name="anonymous"/>
+        </top_terms>
+    </node>
+    <node id="53">
+        <parent_id>49</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>56</left_child_id>
+        <right_child_id>57</right_child_id>
+        <doc_count>433</doc_count>
+        <top_terms>
+            <term name="software"/>
+            <term name="unix"/>
+            <term name="systems"/>
+            <term name="program"/>
+            <term name="computer"/>
+        </top_terms>
+    </node>
+    <node id="54">
+        <parent_id>41</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>425</doc_count>
+        <top_terms>
+            <term name="clinton"/>
+            <term name="tax"/>
+            <term name="state"/>
+            <term name="people"/>
+            <term name="drugs"/>
+        </top_terms>
+    </node>
+    <node id="55">
+        <parent_id>41</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>23</doc_count>
+        <top_terms>
+            <term name="br"/>
+            <term name="isc"/>
+            <term name="steveh"/>
+            <term name="thor"/>
+            <term name="hendricks"/>
+        </top_terms>
+    </node>
+    <node id="56">
+        <parent_id>53</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>35</doc_count>
+        <top_terms>
+            <term name="key"/>
+            <term name="u_c"/>
+            <term name="k_p"/>
+            <term name="bits"/>
+            <term name="chip"/>
+        </top_terms>
+    </node>
+    <node id="57">
+        <parent_id>53</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>58</left_child_id>
+        <right_child_id>59</right_child_id>
+        <doc_count>398</doc_count>
+        <top_terms>
+            <term name="software"/>
+            <term name="program"/>
+            <term name="unix"/>
+            <term name="systems"/>
+            <term name="computer"/>
+        </top_terms>
+    </node>
+    <node id="58">
+        <parent_id>57</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>215</doc_count>
+        <top_terms>
+            <term name="unix"/>
+            <term name="program"/>
+            <term name="code"/>
+            <term name="software"/>
+            <term name="motif"/>
+        </top_terms>
+    </node>
+    <node id="59">
+        <parent_id>57</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>177</doc_count>
+        <top_terms>
+            <term name="software"/>
+            <term name="computer"/>
+            <term name="engineering"/>
+            <term name="circuit"/>
+            <term name="ac"/>
+        </top_terms>
+    </node>
+    <node id="60">
+        <parent_id>7</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>131</doc_count>
+        <top_terms>
+            <term name="key"/>
+            <term name="keys"/>
+            <term name="des"/>
+            <term name="nsa"/>
+            <term name="chip"/>
+        </top_terms>
+    </node>
+    <node id="61">
+        <parent_id>7</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>306</doc_count>
+        <top_terms>
+            <term name="clipper"/>
+            <term name="encryption"/>
+            <term name="chip"/>
+            <term name="government"/>
+            <term name="escrow"/>
+        </top_terms>
+    </node>
+</DataSet>

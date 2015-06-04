@@ -1,0 +1,395 @@
+<?xml version="1.0"?>
+<DataSet id="10876">
+    <node id="0">
+        <parent_id>-1</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>2</left_child_id>
+        <right_child_id>3</right_child_id>
+        <doc_count>7214</doc_count>
+        <top_terms>
+            <term name="people"/>
+            <term name="god"/>
+            <term name="don"/>
+            <term name="article"/>
+            <term name="writes"/>
+        </top_terms>
+    </node>
+    <node id="1">
+        <parent_id>-1</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>12</left_child_id>
+        <right_child_id>13</right_child_id>
+        <doc_count>4023</doc_count>
+        <top_terms>
+            <term name="windows"/>
+            <term name="card"/>
+            <term name="drive"/>
+            <term name="dos"/>
+            <term name="pc"/>
+        </top_terms>
+    </node>
+    <node id="2">
+        <parent_id>0</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>4</left_child_id>
+        <right_child_id>5</right_child_id>
+        <doc_count>5964</doc_count>
+        <top_terms>
+            <term name="people"/>
+            <term name="god"/>
+            <term name="don"/>
+            <term name="government"/>
+            <term name="article"/>
+        </top_terms>
+    </node>
+    <node id="3">
+        <parent_id>0</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>22</left_child_id>
+        <right_child_id>23</right_child_id>
+        <doc_count>1250</doc_count>
+        <top_terms>
+            <term name="team"/>
+            <term name="game"/>
+            <term name="hockey"/>
+            <term name="games"/>
+            <term name="players"/>
+        </top_terms>
+    </node>
+    <node id="4">
+        <parent_id>2</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>1376</doc_count>
+        <top_terms>
+            <term name="god"/>
+            <term name="jesus"/>
+            <term name="christian"/>
+            <term name="christians"/>
+            <term name="bible"/>
+        </top_terms>
+    </node>
+    <node id="5">
+        <parent_id>2</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>6</left_child_id>
+        <right_child_id>7</right_child_id>
+        <doc_count>4588</doc_count>
+        <top_terms>
+            <term name="government"/>
+            <term name="people"/>
+            <term name="clipper"/>
+            <term name="don"/>
+            <term name="article"/>
+        </top_terms>
+    </node>
+    <node id="6">
+        <parent_id>5</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>437</doc_count>
+        <top_terms>
+            <term name="clipper"/>
+            <term name="encryption"/>
+            <term name="key"/>
+            <term name="chip"/>
+            <term name="escrow"/>
+        </top_terms>
+    </node>
+    <node id="7">
+        <parent_id>5</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>8</left_child_id>
+        <right_child_id>9</right_child_id>
+        <doc_count>4121</doc_count>
+        <top_terms>
+            <term name="people"/>
+            <term name="don"/>
+            <term name="article"/>
+            <term name="gun"/>
+            <term name="car"/>
+        </top_terms>
+    </node>
+    <node id="8">
+        <parent_id>7</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>10</left_child_id>
+        <right_child_id>11</right_child_id>
+        <doc_count>3610</doc_count>
+        <top_terms>
+            <term name="people"/>
+            <term name="car"/>
+            <term name="gun"/>
+            <term name="don"/>
+            <term name="article"/>
+        </top_terms>
+    </node>
+    <node id="9">
+        <parent_id>7</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>511</doc_count>
+        <top_terms>
+            <term name="israel"/>
+            <term name="israeli"/>
+            <term name="turkish"/>
+            <term name="jews"/>
+            <term name="arab"/>
+        </top_terms>
+    </node>
+    <node id="10">
+        <parent_id>8</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>14</left_child_id>
+        <right_child_id>15</right_child_id>
+        <doc_count>2394</doc_count>
+        <top_terms>
+            <term name="car"/>
+            <term name="space"/>
+            <term name="bike"/>
+            <term name="nasa"/>
+            <term name="article"/>
+        </top_terms>
+    </node>
+    <node id="11">
+        <parent_id>8</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>26</left_child_id>
+        <right_child_id>27</right_child_id>
+        <doc_count>1084</doc_count>
+        <top_terms>
+            <term name="gun"/>
+            <term name="guns"/>
+            <term name="people"/>
+            <term name="government"/>
+            <term name="batf"/>
+        </top_terms>
+    </node>
+    <node id="12">
+        <parent_id>1</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>1861</doc_count>
+        <top_terms>
+            <term name="drive"/>
+            <term name="card"/>
+            <term name="scsi"/>
+            <term name="ide"/>
+            <term name="sale"/>
+        </top_terms>
+    </node>
+    <node id="13">
+        <parent_id>1</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>16</left_child_id>
+        <right_child_id>17</right_child_id>
+        <doc_count>2162</doc_count>
+        <top_terms>
+            <term name="windows"/>
+            <term name="file"/>
+            <term name="dos"/>
+            <term name="files"/>
+            <term name="window"/>
+        </top_terms>
+    </node>
+    <node id="14">
+        <parent_id>10</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>18</left_child_id>
+        <right_child_id>19</right_child_id>
+        <doc_count>1838</doc_count>
+        <top_terms>
+            <term name="car"/>
+            <term name="bike"/>
+            <term name="dod"/>
+            <term name="cars"/>
+            <term name="good"/>
+        </top_terms>
+    </node>
+    <node id="15">
+        <parent_id>10</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>556</doc_count>
+        <top_terms>
+            <term name="space"/>
+            <term name="nasa"/>
+            <term name="moon"/>
+            <term name="henry"/>
+            <term name="orbit"/>
+        </top_terms>
+    </node>
+    <node id="16">
+        <parent_id>13</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>694</doc_count>
+        <top_terms>
+            <term name="windows"/>
+            <term name="dos"/>
+            <term name="file"/>
+            <term name="files"/>
+            <term name="ms"/>
+        </top_terms>
+    </node>
+    <node id="17">
+        <parent_id>13</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>24</left_child_id>
+        <right_child_id>25</right_child_id>
+        <doc_count>1468</doc_count>
+        <top_terms>
+            <term name="window"/>
+            <term name="graphics"/>
+            <term name="server"/>
+            <term name="program"/>
+            <term name="motif"/>
+        </top_terms>
+    </node>
+    <node id="18">
+        <parent_id>14</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>260</doc_count>
+        <top_terms>
+            <term name="msg"/>
+            <term name="food"/>
+            <term name="sensitivity"/>
+            <term name="superstition"/>
+            <term name="chinese"/>
+        </top_terms>
+    </node>
+    <node id="19">
+        <parent_id>14</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>20</left_child_id>
+        <right_child_id>21</right_child_id>
+        <doc_count>1578</doc_count>
+        <top_terms>
+            <term name="car"/>
+            <term name="bike"/>
+            <term name="dod"/>
+            <term name="cars"/>
+            <term name="ride"/>
+        </top_terms>
+    </node>
+    <node id="20">
+        <parent_id>19</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>1115</doc_count>
+        <top_terms>
+            <term name="car"/>
+            <term name="cars"/>
+            <term name="engine"/>
+            <term name="good"/>
+            <term name="dealer"/>
+        </top_terms>
+    </node>
+    <node id="21">
+        <parent_id>19</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>422</doc_count>
+        <top_terms>
+            <term name="bike"/>
+            <term name="dod"/>
+            <term name="ride"/>
+            <term name="riding"/>
+            <term name="motorcycle"/>
+        </top_terms>
+    </node>
+    <node id="22">
+        <parent_id>3</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>562</doc_count>
+        <top_terms>
+            <term name="baseball"/>
+            <term name="players"/>
+            <term name="games"/>
+            <term name="game"/>
+            <term name="team"/>
+        </top_terms>
+    </node>
+    <node id="23">
+        <parent_id>3</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>637</doc_count>
+        <top_terms>
+            <term name="hockey"/>
+            <term name="team"/>
+            <term name="game"/>
+            <term name="nhl"/>
+            <term name="cup"/>
+        </top_terms>
+    </node>
+    <node id="24">
+        <parent_id>17</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>441</doc_count>
+        <top_terms>
+            <term name="window"/>
+            <term name="server"/>
+            <term name="motif"/>
+            <term name="application"/>
+            <term name="x11r5"/>
+        </top_terms>
+    </node>
+    <node id="25">
+        <parent_id>17</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>1005</doc_count>
+        <top_terms>
+            <term name="graphics"/>
+            <term name="ftp"/>
+            <term name="mail"/>
+            <term name="software"/>
+            <term name="program"/>
+        </top_terms>
+    </node>
+    <node id="26">
+        <parent_id>11</parent_id>
+        <left_child>true</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>776</doc_count>
+        <top_terms>
+            <term name="gun"/>
+            <term name="guns"/>
+            <term name="people"/>
+            <term name="firearms"/>
+            <term name="crime"/>
+        </top_terms>
+    </node>
+    <node id="27">
+        <parent_id>11</parent_id>
+        <left_child>false</left_child>
+        <left_child_id>-1</left_child_id>
+        <right_child_id>-1</right_child_id>
+        <doc_count>223</doc_count>
+        <top_terms>
+            <term name="fbi"/>
+            <term name="batf"/>
+            <term name="atf"/>
+            <term name="waco"/>
+            <term name="fire"/>
+        </top_terms>
+    </node>
+</DataSet>

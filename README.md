@@ -10,14 +10,12 @@ In the Makefile for the smallk source is a switch for
 specifying the data directory. That relevant portion of the Makefile
 for the DARPA XDATA project is included here for convenience:
 
------------
 # The 'make check' and 'make distcheck' targets require the location of the 
 # xdata_data project.  Users can supply the path to this project on the make 
 # command line by defining the DATA_DIR variable.  If users did not specify 
 # the path, assume the following location:
 DATA_DIR ?= ../xdata_data
 export DATA_DIR
------------
 
 Thus, for running 'make check' with smallk, include the switch using a command line
 like:

@@ -23,6 +23,3 @@ like:
     $make check DATA_DIR=../smallk_data
 
 or to the path where the smallk_data repository has been cloned.
-
-    Status API Training Shop Blog About 
-

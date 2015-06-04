@@ -20,7 +20,7 @@ for the DARPA XDATA project is included here for convenience:
 Thus, for running 'make check' with smallk, include the switch using a command line
 like:
 
-$make check DATA_DIR=../smallk_data
+    $make check DATA_DIR=../smallk_data
 
 or to the path where the smallk_data repository has been cloned.
 

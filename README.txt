@@ -1,3 +1,7 @@
+-------- Path --------- 
+/smallk_data/README.txt
+----------------------- 
+
 This repository holds the data sets for testing
 the smallk library. 
 
@@ -24,3 +28,4 @@ like:
 $make check DATA_DIR=../smallk_data
 
 or to the path where the smallk_data repository has been cloned.
+

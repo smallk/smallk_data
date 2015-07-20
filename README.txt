@@ -18,7 +18,7 @@ for the DARPA XDATA project is included here for convenience:
 # xdata_data project.  Users can supply the path to this project on the make 
 # command line by defining the DATA_DIR variable.  If users did not specify 
 # the path, assume the following location:
-DATA_DIR ?= ../xdata_data
+DATA_DIR ?= ../smallk_data
 export DATA_DIR
 -----------
 

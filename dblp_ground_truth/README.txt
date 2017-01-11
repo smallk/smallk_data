@@ -5,6 +5,20 @@ richer metadata and verifiable ground-truth knowledge, which can foster future
 research in community finding and interpretation of communities in large
 networks.
 
+There are six files in total:
+
+	dblp15_graph.mtx The adjacency matrix of the graph
+	dblp15_graph_weighted.mtx Weighted adjacency matrix, the weight means 
+	    how many times two authors have collaborated
+	dblp15_ground_truth.mtx ground truth matrix, where the (i,j) entry equaling 
+	    1 means that author i published in venue j
+	dblp15_ground_truth_split.mtx split ground truth matrix, where the original 
+	    ground truth communities are split into connected components
+	dblp15_authors.txt list of author names, as appeared in the dblp.xml file, 
+	    the order of which is consistent with all the matrices
+	dblp15_venues.txt list of venue keys, as described in the paper, the order 
+	    of which is consistent with the matrix in dblp15_ground_truth.mtx
+
 Community discovery is an important task for revealing structures in large
 networks. The massive size of contemporary social networks poses a tremendous
 challenge to the scalability of traditional graph clustering algorithms and the

@@ -1,3 +1,5 @@
+/Users/barrydrake/development/python/spyder_proj/repositories/smallk_data/dblp_ground_truth/README.txt
+
 # dblp: computer science bibliography ground truth data for graph analytics
 
 We provide new data sets of the DBLP computer science bibliography network with
